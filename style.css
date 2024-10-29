@@ -20,6 +20,9 @@ div{
 img {
     height: 200px;
 }
-
-
+.categoria-vídeos {
+    display: flex;
+    overflow-x:auto ;
+    gap: 10;
 }
+
