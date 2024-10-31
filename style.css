@@ -18,6 +18,10 @@ div{
     margin-right: 5%;
 }
 
+img{
+    contain-intrinsic-height: 200px;
+}
+
 
 
 
