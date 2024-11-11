@@ -9,6 +9,8 @@ section {
      padding-top: 80px;
      display: flex;
      justify-content: center;
+     padding-left: 20;
+     padding-right: 20;
 }
 
 div{
@@ -26,6 +28,7 @@ img {
     overflow-x: auto;
     gap: 10px;
 }
+section
 
 
 
